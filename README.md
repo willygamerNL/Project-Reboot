@@ -12,3 +12,6 @@ this started on july 25 2022, me and some other devs who i work with decided to 
 - [ ] rebuild Rockstar services
 - [ ] rebuild lbp servers
 - [ ] finish it before the end of 2023
+
+### Whats going on now?
+at the moment we are developing this project and living our own life if u want to help with this project then join the discord and we will tell u how u can help
